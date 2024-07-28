@@ -9,9 +9,24 @@ This project is a simple graphics application that demonstrates various algorith
 ### Features
 
 - **Line Drawing**: Bresenham's line algorithm, Polynomial line algorithm
+
+![Line](2D-Img/1.png)
+
 - **Circle Drawing**: Bresenham's circle algorithm, Polynomial circle algorithm, Trigonometric circle algorithm
+
+![Line](2D-Img/2.png)
+
+
 - **Ellipse Drawing**: Bresenham's ellipse algorithm, Polynomial ellipse algorithm, Trigonometric ellipse algorithm, Ellipse with rotation
+
+![Line](2D-Img/3.png)
+
+
 - **Animations**: Clock with real-time update, Pendulum, Flower pattern
+
+![Line](2D-Img/4.gif)
+
+
 
 ### Requirements
 
