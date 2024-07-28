@@ -1,5 +1,5 @@
 # Graphics Projects from Scratch
-
+![Graphics Projects from Scratch](Project.jpg)
 This repository contains a collection of graphics projects implemented from scratch in C++. It includes both 2D and 3D graphics projects, demonstrating various algorithms and techniques for drawing shapes, handling animations, and rendering 3D objects.
 
 ## 2D Graphics Project
