@@ -10,22 +10,19 @@ This project is a simple graphics application that demonstrates various algorith
 
 - **Line Drawing**: Bresenham's line algorithm, Polynomial line algorithm
 
-![Line](2D-Img/1.png)
+<img src="2D-Img/1.png" width="400" height="300">
 
 - **Circle Drawing**: Bresenham's circle algorithm, Polynomial circle algorithm, Trigonometric circle algorithm
 
-![Line](2D-Img/2.png)
-
+<img src="2D-Img/2.png" width="400" height="400">
 
 - **Ellipse Drawing**: Bresenham's ellipse algorithm, Polynomial ellipse algorithm, Trigonometric ellipse algorithm, Ellipse with rotation
 
-![Line](2D-Img/3.png)
-
+<img src="2D-Img/3.png" width="400" height="400">
 
 - **Animations**: Clock with real-time update, Pendulum, Flower pattern
 
-![Line](2D-Img/4.gif)
-
+<img src="2D-Img/4.gif" width="500" height="400">
 
 
 ### Requirements
@@ -47,6 +44,8 @@ This project is a simple graphics application that demonstrates various algorith
 - **10**: Draw a clock
 - **11**: Draw a pendulum
 - **12**: Draw a flower pattern
+
+<img src="2D-Img/Menu-2D.png" width="500" height="400">
 
 ## Contact
 
