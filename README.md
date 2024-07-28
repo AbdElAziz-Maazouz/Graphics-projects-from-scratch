@@ -45,8 +45,6 @@ This project is a simple graphics application that demonstrates various algorith
 - **11**: Draw a pendulum
 - **12**: Draw a flower pattern
 
-<img src="2D-Img/Menu-2D.png" width="500" height="400">
-
 ## Contact
 
-For any questions or suggestions, please open an issue or contact [yourname](mailto:your.email@example.com).
+For any questions or suggestions, please open an issue or contact [Maazouz AbdelAziz:](https://www.linkedin.com/in/abdelaziz-maazouz/)
